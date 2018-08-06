@@ -1,1 +1,1 @@
-# timer_app_QT5
+# Simple Timer app in QT5
